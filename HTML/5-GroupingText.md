@@ -1,0 +1,2 @@
+- `<div>` --> block level element
+- `<span>` --> inline level element
